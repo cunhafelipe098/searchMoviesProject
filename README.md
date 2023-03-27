@@ -1,3 +1,5 @@
+search movies using OMDB service
+
 #Frontend
 
 $ cd frontend
